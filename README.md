@@ -1,4 +1,4 @@
-# ML_Crystring
+# ML_Crystring (Public Version)
 
 Machine learning framework for crystal structure representation, property prediction, and generative modeling using Crystring, an invertible sequence-based representation of crystalline materials.
 
