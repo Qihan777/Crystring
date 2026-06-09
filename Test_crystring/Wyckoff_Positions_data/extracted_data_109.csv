@@ -1,0 +1,4 @@
+Multiplicity,Wyckoff letter,Sitesymmetry,Coordinates
+16,c,1,"(x,y,z) (-x+1/2,-y+1/2,z+1/2) (-y,x+1/2,z+1/4) (y+1/2,-x,z+3/4) (x,-y,z) (-x+1/2,y+1/2,z+1/2) (-y,-x+1/2,z+1/4) (y+1/2,x,z+3/4)"
+8,b,.m.,"(0,y,z) (1/2,-y+1/2,z+1/2) (-y,1/2,z+1/4) (y+1/2,0,z+3/4)"
+4,a,2mm .,"(0,0,z) (0,1/2,z+1/4)"

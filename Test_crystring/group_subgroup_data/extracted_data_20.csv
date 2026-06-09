@@ -1,0 +1,9 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,4,P21,2,t,show..
+2,5,C2,2,t,show..
+3,17,P2221,2,k,show..
+4,18,P21212,2,k,show..
+5,19,P212121,2,k,show..
+6,20,C2221,3,k,show..
+7,20,C2221,5,k,show..
+8,20,C2221,7,k,show..

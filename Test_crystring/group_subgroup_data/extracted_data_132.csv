@@ -1,0 +1,16 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,49,Pccm,2,t,show..
+2,65,Cmmm,2,t,show..
+3,84,P42/m,2,t,show..
+4,93,P4222,2,t,show..
+5,101,P42cm,2,t,show..
+6,111,P-42m,2,t,show..
+7,116,P-4c2,2,t,show..
+8,131,P42/mmc,2,k,show..
+9,132,P42/mcm,3,k,show..
+10,132,P42/mcm,5,k,show..
+11,132,P42/mcm,7,k,show..
+12,132,P42/mcm,9,k,show..
+13,133,P42/nbc,2,k,show..
+14,135,P42/mbc,2,k,show..
+15,137,P42/nmc,2,k,show..

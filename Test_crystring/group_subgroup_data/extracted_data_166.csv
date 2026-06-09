@@ -1,0 +1,11 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,12,C2/m,3,t,show..
+2,148,R-3,2,t,show..
+3,155,R32,2,t,show..
+4,160,R3m,2,t,show..
+5,164,P-3m1,3,k,show..
+6,166,R-3m,2,k,show..
+7,166,R-3m,4,k,show..
+8,166,R-3m,5,k,show..
+9,166,R-3m,7,k,show..
+10,167,R-3c,2,k,show..

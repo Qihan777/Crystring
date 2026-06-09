@@ -1,0 +1,15 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,25,Pmm2,2,t,show..
+2,35,Cmm2,2,t,show..
+3,75,P4,2,t,show..
+4,99,P4mm,2,k,show..
+5,99,P4mm,3,k,show..
+6,99,P4mm,5,k,show..
+7,99,P4mm,7,k,show..
+8,99,P4mm,9,k,show..
+9,100,P4bm,2,k,show..
+10,101,P42cm,2,k,show..
+11,103,P4cc,2,k,show..
+12,105,P42mc,2,k,show..
+13,107,I4mm,2,k,show..
+14,108,I4cm,2,k,show..

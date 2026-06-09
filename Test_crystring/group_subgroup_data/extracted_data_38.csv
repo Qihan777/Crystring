@@ -1,0 +1,15 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,5,C2,2,t,show..
+2,6,Pm,2,t,show..
+3,8,Cm,2,t,show..
+4,25,Pmm2,2,k,show..
+5,26,Pmc21,2,k,show..
+6,30,Pnc2,2,k,show..
+7,31,Pmn21,2,k,show..
+8,38,Amm2,2,k,show..
+9,38,Amm2,3,k,show..
+10,38,Amm2,5,k,show..
+11,38,Amm2,7,k,show..
+12,40,Ama2,2,k,show..
+13,44,Imm2,2,k,show..
+14,46,Ima2,2,k,show..

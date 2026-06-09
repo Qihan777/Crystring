@@ -1,0 +1,16 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,49,Pccm,2,t,show..
+2,66,Cccm,2,t,show..
+3,83,P4/m,2,t,show..
+4,89,P422,2,t,show..
+5,103,P4cc,2,t,show..
+6,112,P-42c,2,t,show..
+7,116,P-4c2,2,t,show..
+8,124,P4/mcc,2,k,show..
+9,124,P4/mcc,3,k,show..
+10,124,P4/mcc,5,k,show..
+11,124,P4/mcc,7,k,show..
+12,124,P4/mcc,9,k,show..
+13,126,P4/nnc,2,k,show..
+14,128,P4/mnc,2,k,show..
+15,130,P4/ncc,2,k,show..

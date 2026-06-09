@@ -1,0 +1,17 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,65,Cmmm,3,t,show..
+2,162,P-31m,2,t,show..
+3,164,P-3m1,2,t,show..
+4,175,P6/m,2,t,show..
+5,177,P622,2,t,show..
+6,183,P6mm,2,t,show..
+7,187,P-6m2,2,t,show..
+8,189,P-62m,2,t,show..
+9,191,P6/mmm,2,k,show..
+10,191,P6/mmm,3,k,show..
+11,191,P6/mmm,4,k,show..
+12,191,P6/mmm,5,k,show..
+13,191,P6/mmm,7,k,show..
+14,192,P6/mcc,2,k,show..
+15,193,P63/mcm,2,k,show..
+16,194,P63/mmc,2,k,show..

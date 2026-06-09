@@ -1,0 +1,12 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,58,Pnnm,2,t,show..
+2,65,Cmmm,2,t,show..
+3,84,P42/m,2,t,show..
+4,94,P42212,2,t,show..
+5,102,P42nm,2,t,show..
+6,113,P-421m,2,t,show..
+7,118,P-4n2,2,t,show..
+8,136,P42/mnm,3,k,show..
+9,136,P42/mnm,5,k,show..
+10,136,P42/mnm,7,k,show..
+11,136,P42/mnm,9,k,show..

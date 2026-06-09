@@ -1,0 +1,9 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,2,P-1,2,t,show..
+2,5,C2,2,t,show..
+3,9,Cc,2,t,show..
+4,13,P2/c,2,k,show..
+5,14,P21/c,2,k,show..
+6,15,C2/c,3,k,show..
+7,15,C2/c,5,k,show..
+8,15,C2/c,7,k,show..

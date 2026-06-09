@@ -1,0 +1,15 @@
+N,IT number,HM symbol,Index,Type,Transformations
+1,10,P2/m,2,t,show..
+2,13,P2/c,2,t,show..
+3,16,P222,2,t,show..
+4,27,Pcc2,2,t,show..
+5,28,Pma2,2,t,show..
+6,49,Pccm,2,k,show..
+7,49,Pccm,3,k,show..
+8,49,Pccm,5,k,show..
+9,49,Pccm,7,k,show..
+10,50,Pban,2,k,show..
+11,53,Pmna,2,k,show..
+12,54,Pcca,2,k,show..
+13,66,Cccm,2,k,show..
+14,68,Ccce,2,k,show..

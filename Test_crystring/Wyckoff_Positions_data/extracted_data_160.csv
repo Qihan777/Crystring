@@ -1,0 +1,4 @@
+Multiplicity,Wyckoff letter,Sitesymmetry,Coordinates
+18,c,1,"(x,y,z) (-y,x-y,z) (-x+y,-x,z) (-y,-x,z) (-x+y,y,z) (x,x-y,z)"
+9,b,.m,"(x,-x,z) (x,2x,z) (-2x,-x,z)"
+3,a,3m,"(0,0,z)"

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho2Cr2O8
+_chemical_formula_sum              "Ho2 Cr2 O8"
+_cell_length_a       6.603654633050601
+_cell_length_b       6.603654633050601
+_cell_length_c       6.603654633050601
+_cell_angle_alpha    135.67048816381342
+_cell_angle_beta     135.67048816381342
+_cell_angle_gamma    64.49017910521772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.5000000000000001  0.49999999999999994  0.0  1.0000
+  Ho  Ho2       1.0  0.25  0.75  0.5  1.0000
+  Cr  Cr1       1.0  0.0  0.0  0.0  1.0000
+  Cr  Cr2       1.0  0.75  0.25000000000000006  0.5  1.0000
+  O   O1        1.0  0.6640050299999999  0.06743034000000002  0.88691736  1.0000
+  O   O2        1.0  0.8174303400000004  0.43051297999999993  0.9034253100000001  1.0000
+  O   O3        1.0  0.5270876700000001  0.9140050300000001  0.09657468999999991  1.0000
+  O   O4        1.0  0.1805129800000001  0.77708767  0.11308263999999997  1.0000
+  O   O5        1.0  0.56948702  0.47291232999999994  0.38691736  1.0000
+  O   O6        1.0  0.22291233000000002  0.33599497  0.4034253099999999  1.0000
+  O   O7        1.0  0.9325696599999997  0.8194870200000001  0.5965746899999999  1.0000
+  O   O8        1.0  0.08599497000000003  0.18256966  0.61308264  1.0000

@@ -1,0 +1,5 @@
+Multiplicity,Wyckoff letter,Sitesymmetry,Coordinates
+16,d,1,"(x,y,z) (-x,-y,z) (-y,x,z) (y,-x,z) (x,-y,z+1/2) (-x,y,z+1/2) (-y,-x,z+1/2) (y,x,z+1/2)"
+8,c,..m,"(x,x+1/2,z) (-x,-x+1/2,z) (-x+1/2,x,z) (x+1/2,-x,z)"
+4,b,2.m m,"(1/2,0,z) (0,1/2,z)"
+4,a,4..,"(0,0,z) (0,0,z+1/2)"
